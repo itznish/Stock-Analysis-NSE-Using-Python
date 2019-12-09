@@ -1,5 +1,5 @@
-# Stock-Analysis-NSE-Using-Python
-Stock analysis using python code
+# Stock Analysis With Python
+Stock analysis App using python code
 
 Following items can be analyzed by the code:
 * Calculating Daily returns of stocks
